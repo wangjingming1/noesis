@@ -1,0 +1,17 @@
+1、注册GitHub账号、
+
+2、进入该网址：https://github.com/nitianxiaoshuai/noesis，将fork该工程。
+
+3、本地创建一个文件夹(workspace)
+
+4、将代码clone下来 git clone {http地址}
+
+5、修改代码，commit，push ，输入自己的GitHub、账号和密码，完成提交，
+
+6、到GitHub网站创建PR
+ps::、具体步骤：http://blog.csdn.net/vipzjyno1/article/details/22098621
+
+ 
+
+注意：将nitianxiaoshuai/NoesisDeom 工程里的其他人的文件 merge到自己的工程分支：
+git remote add upstream https://github.com/nitianxiaoshuai/NoesisDemo.git  然后git push 就行了
